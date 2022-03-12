@@ -1,0 +1,75 @@
+@media only screen and (max-width:1280px) {
+    .navbar-text {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    
+    .block {padding: 30px 0} 
+    
+    .footer .menu li {
+        padding: 10px;
+    }
+    .footer {
+        text-align: center
+    }
+   
+  
+   
+}
+
+
+
+@media (max-width:984px) {
+     .block-spec-txt {text-align:center}
+	 .block-spec-img {padding: 50px 0 0 }
+	 .tras-blog {margin:0}
+    .block .col-sm-12 { padding: 20px 0px;}
+    .form-contact {width: 100%}
+}
+
+@media only screen and (max-width:768px) {
+    
+    .block {text-align: center}
+    
+}
+
+@media only screen and (max-width:640px) {
+     
+}
+
+@media only screen and (max-width:540px) {
+    
+    .footer .menu li {
+        float: none
+    }
+}
+
+@media only screen and (max-width:480px) {
+    .banner h1, .banner .h1 {margin-top: 50px; font-size: 45px;}
+    .banner h2, .banner .h2 {font-size: 30px;}
+    .banner p {font-size: 14px;}
+    .banner .phone {font-size: 30px;}
+    .banner {height: 550px;}
+}
+
+@media only screen and (max-width:320px) {
+    
+    
+    .banner h1, .banner .h1 {margin-top: 30px; font-size: 35px;}
+    .banner h2, .banner .h2 {font-size: 28px; margin: 20px 0}
+    .banner p {font-size: 14px;}
+    
+    .smart-blok {
+        margin: 20px 15px;
+    }
+    .smart-developments {
+        margin: 20px 15px;
+    }
+    .partner img {
+        padding: 15px 80px;
+        width: 100%;
+        text-align: center
+    }
+}
