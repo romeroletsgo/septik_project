@@ -65,7 +65,7 @@ height:auto;
 
 .navbar-default .navbar-text {
     color: #333;
-    margin: 16px 0px;
+    margin: 16px 0px 0px 92px;
 }
 .block-spec-txt {padding:40px 0;}
 .navbar-default .navbar-nav > .active > a,
